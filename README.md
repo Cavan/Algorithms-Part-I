@@ -3,14 +3,5 @@ The purpose of this project is to get some practice and learn various algorithms
 
 ## Data Structure & Algorithm Used
 
-* 1. Eager Algorithm & Integer Array Data Structure
-
-* 2.
-
-* 3. 
-
-* 4. 
-
-* 5. 
-
-* 6. 
+* Integer Array : Eager Algorithm 
+* 
